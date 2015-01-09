@@ -3,7 +3,7 @@ Contributors: pirmax
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DPPT5J9GXXFJY
 Tags: minecraft, online, users, widget, user, player, players, display, affichage, extension, plugin, afficher
 Requires at least: 4.0
-Tested up to: 3.5.2
+Tested up to: 4.1
 Stable tag: trunk
 
 Plugin Widget permettant d'afficher les joueurs en ligne d'un serveur Minecraft dans le menu d'un blog Wordpress.
